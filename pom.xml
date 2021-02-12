@@ -8,8 +8,8 @@
         <version>2.4.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>demo</artifactId>
+    <groupId>com.a1exqc</groupId>
+    <artifactId>daily-work-scheduler</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>dailywork</name>
     <description>A simple calendar app for scheduling my daily work.</description>
